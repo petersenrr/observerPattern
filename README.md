@@ -1,0 +1,1 @@
+This was a class project for my Software Patterns class. This project helpled me learn about the observer pattern. For more information on what the project criteria was look at Program2 Observer.pdf file.
